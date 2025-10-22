@@ -1,0 +1,100 @@
+
+Learn C#
+
+What is C#?
+- is one of the languages that's part of the net family of languages there C there's Visual Basic and F#
+Why?
+- you can code a lot of things with C#, you can build web apps you can build mobile app, you can build games. Cloud native and Kubernetes and microservices, you can do fancy applications that are in the enterprise and big business. You can write most of your favorite video games like Unity and Gdau a lot of your Xbox games. You can write Andoid Apps, iPhone apps, run on RPI or tiny microcontroller.
+- Cross-platform
+
+Terminal admin:
+cd C:\code\
+dir
+mkdir helloworld
+cd .\helloworld\
+dir
+dotnet
+dotnet new
+- Console App - called text mode application, run inside our terminal
+dir
+dotnet new console
+dir (create project file: obj, helloworld.csproj (main), program.cs (code))
+
+dotnet run
+(compile then run)
+
+PS C:\code\helloworld> dotnet run
+Hello, World!
+
+bin or binary -  that's where my application is
+
+notepad .\Program.cs
+
+(notepad pops up and see my helloworld)
+
+
+What is dotNet?
+- that's your command line tool used to create projects, run applications,
+do everything you want to do with .NET
+- You get this one entry point CLI, one entry point application, for running applications, testing applications, making new applications
+
+CLI- Command Line Interface
+
+VS code
+code .
+
+(.) - dot means this folder
+
+Open Program.cs
+Press F5
+Install C# Dev Kit
+
+Press F5
+Select C# or click the play button > run project associate with this file
+
+
+instead of running in terminal: it ran called an integrated terminal inside of VS Code
+
+CRTL + F5
+F5
+RUND AND DEBUG
+
+Strings:
+$ - string interpolation
+{} - concatenate
+
+Trim
+Replace
+TopUpper
+Length
+StatsWith
+
+Number, Integers and Math:
+Numbers, Precision, Casting, Doubles, and More:
+Branching, Ifs, and Conditional logic:
+Branching and While Loops:
+For loops:
+List T and Collections of Data:
+Cup<T>
+
+Arrays, Lists, Indexing, and Foreach:
+Sorting and Searching Lists:
+Sort
+Language Integrated Query (LINQ) and IEnumerable:
+List<int>
+IEnumerable<int>
+
+LINQ Query Expressions From, Where, Orderby, and Select:
+LIN! Method Syntax vs Query:
+Count
+
+Object-oriented programming (OOP):
+Object Orientation
+String trim
+Class Name
+Encapsulation
+Member Fields
+Public vs Private
+
+OOP with drived or abtract classes, overrides:
+
