@@ -1,0 +1,7 @@
+Learn C#: https://dotnet.microsoft.com/en-us/learn/csharp?
+dotNet: https://aka.ms/dotnet/download
+
+Software used:
+C#
+.NET
+
